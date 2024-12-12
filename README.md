@@ -1,3 +1,8 @@
+# Hi there 👋
+
+- I'm currently working on something cool! 👍
+
+## Server's
 - **Darkway RP (2022)**  
   A successful WL-off roleplay server owned by a friend. I contributed as a LUA developer.  
 
