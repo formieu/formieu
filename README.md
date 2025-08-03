@@ -10,4 +10,4 @@
   A WL-OFF roleplay server that I owned. I handled 100% of the server's development in collaboration with Focaan, covering both LUA scripting and UI design.
 
 - **Eclipse RP (2025)**  
-  Since July 1, 2025, I have been working on Reborn together with Focaan, developing a more complete server and UI.
+  Since July 1, 2025, I have been working on Eclipse, developing a more complete server and UI.
