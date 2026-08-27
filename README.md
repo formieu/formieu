@@ -3,10 +3,10 @@
 * I'm currently working on something cool! 👍
 
 ## Server's
-* **Darkway RP (2022)**
+* **Darkway RP (2022-2024)**
   A successful WL-OFF roleplay server owned by a friend. I contributed as a LUA developer and UI designer.
 
-* **Eclipse RP (2024)**
+* **Eclipse RP (2024-2025)**
   A WL-OFF roleplay server that I owned. I handled 100% of the server's development in collaboration with Focaan, covering LUA scripting and UI design.
 
 * **Genesis RP (2025–2026)**
